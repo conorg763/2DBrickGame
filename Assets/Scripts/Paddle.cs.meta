@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: fd2372d0926764431a79d11078d3306c
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Ball: {instanceID: 0}
+  - lifeImage: {instanceID: 0}
+  - ScoreboardSkin: {fileID: 11400000, guid: b14803c36e4bb01479161924b424cb8b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
